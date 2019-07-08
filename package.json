@@ -1,26 +1,18 @@
 {
-  "name": "stundraw2d",
+  "name": "typescrip_graphic_math_demo",
   "version": "1.0.0",
-  "description": "用TypeScript写的Canvas绘图库",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev":"lite-server"
+    "dev" : "lite-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fjphysics/StunDraw2D.git"
-  },
-  "author": "fanjing",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/fjphysics/StunDraw2D/issues"
-  },
-  "homepage": "https://github.com/fjphysics/StunDraw2D#readme",
-  "dependencies": {
-    "typescript": "^3.5.1"
-  },
   "devDependencies": {
-    "lite-server": "^2.5.3"
+    "lite-server": "^2.3.0",
+    "systemjs": "^0.19.47",
+    "typescript": "^2.8.3"
   }
 }
